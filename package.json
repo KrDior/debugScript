@@ -1,0 +1,19 @@
+{
+  "name": "debugscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "debug.js",
+  "scripts": {
+    "start": "node debug.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "*",
+    "xml2js": "*",
+    "moment": "*",
+    "chalk": "*",
+    "semver": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
